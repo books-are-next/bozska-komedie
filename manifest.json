@@ -1,0 +1,2089 @@
+{
+  "author": "Dante Alighieri",
+  "identifier": "alighieri-bozska-komedie-d011939",
+  "languagecode": "cs",
+  "modified": "2022-01-25T13:04:12.337Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Božská komedie",
+  "revision": "d011939",
+  "generatedAt": {
+    "date": "Tue Jan 25 2022 13:09:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643116188250
+  },
+  "documents": [
+    {
+      "title": "Božská komedie",
+      "file": "section0001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0005.html",
+      "words": 945,
+      "chars": 4955,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "I. Peklo",
+          "id": "i-peklo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0006.html",
+      "words": 607,
+      "chars": 3171,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0007.html",
+      "words": 952,
+      "chars": 4933,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0008.html",
+      "words": 986,
+      "chars": 5354,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0009.html",
+      "words": 982,
+      "chars": 5133,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0010.html",
+      "words": 766,
+      "chars": 4109,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0011.html",
+      "words": 875,
+      "chars": 4618,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0012.html",
+      "words": 716,
+      "chars": 3714,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0013.html",
+      "words": 887,
+      "chars": 4701,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0014.html",
+      "words": 947,
+      "chars": 4873,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0015.html",
+      "words": 767,
+      "chars": 4082,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0016.html",
+      "words": 960,
+      "chars": 5024,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0017.html",
+      "words": 1033,
+      "chars": 5363,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0018.html",
+      "words": 965,
+      "chars": 5069,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0019.html",
+      "words": 859,
+      "chars": 4474,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0020.html",
+      "words": 939,
+      "chars": 4829,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0021.html",
+      "words": 945,
+      "chars": 4913,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0022.html",
+      "words": 938,
+      "chars": 4828,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0023.html",
+      "words": 914,
+      "chars": 4793,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0024.html",
+      "words": 844,
+      "chars": 4506,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0025.html",
+      "words": 985,
+      "chars": 5085,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0024.html",
+      "next": "section0026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0026.html",
+      "words": 1041,
+      "chars": 5490,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0025.html",
+      "next": "section0027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0027.html",
+      "words": 980,
+      "chars": 5222,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 23,
+      "prev": "section0026.html",
+      "next": "section0028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0028.html",
+      "words": 1055,
+      "chars": 5461,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 24,
+      "prev": "section0027.html",
+      "next": "section0029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0029.html",
+      "words": 1029,
+      "chars": 5308,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 25,
+      "prev": "section0028.html",
+      "next": "section0030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0030.html",
+      "words": 971,
+      "chars": 5102,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 26,
+      "prev": "section0029.html",
+      "next": "section0031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0031.html",
+      "words": 942,
+      "chars": 4926,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 27,
+      "prev": "section0030.html",
+      "next": "section0032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0032.html",
+      "words": 951,
+      "chars": 5013,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 28,
+      "prev": "section0031.html",
+      "next": "section0033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0033.html",
+      "words": 924,
+      "chars": 4870,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 29,
+      "prev": "section0032.html",
+      "next": "section0034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0034.html",
+      "words": 1013,
+      "chars": 5276,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 30,
+      "prev": "section0033.html",
+      "next": "section0035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0035.html",
+      "words": 979,
+      "chars": 5115,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 31,
+      "prev": "section0034.html",
+      "next": "section0036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0036.html",
+      "words": 973,
+      "chars": 5057,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 32,
+      "prev": "section0035.html",
+      "next": "section0037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0037.html",
+      "words": 1085,
+      "chars": 5608,
+      "ideas": 158,
+      "role": "chapter",
+      "order": 33,
+      "prev": "section0036.html",
+      "next": "section0038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0038.html",
+      "words": 968,
+      "chars": 4934,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 34,
+      "prev": "section0037.html",
+      "next": "section0039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0039.html",
+      "words": 919,
+      "chars": 4768,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 35,
+      "prev": "section0038.html",
+      "next": "section0040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "II. Očistec",
+          "id": "ii-očistec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0040.html",
+      "words": 910,
+      "chars": 4724,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 36,
+      "prev": "section0039.html",
+      "next": "section0041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0041.html",
+      "words": 985,
+      "chars": 5179,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 37,
+      "prev": "section0040.html",
+      "next": "section0042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0042.html",
+      "words": 957,
+      "chars": 4996,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 38,
+      "prev": "section0041.html",
+      "next": "section0043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0043.html",
+      "words": 966,
+      "chars": 5008,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 39,
+      "prev": "section0042.html",
+      "next": "section0044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0044.html",
+      "words": 1003,
+      "chars": 5338,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 40,
+      "prev": "section0043.html",
+      "next": "section0045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0045.html",
+      "words": 941,
+      "chars": 4904,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 41,
+      "prev": "section0044.html",
+      "next": "section0046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0046.html",
+      "words": 984,
+      "chars": 5043,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 42,
+      "prev": "section0045.html",
+      "next": "section0047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0047.html",
+      "words": 1000,
+      "chars": 5173,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 43,
+      "prev": "section0046.html",
+      "next": "section0048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0048.html",
+      "words": 948,
+      "chars": 4978,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 44,
+      "prev": "section0047.html",
+      "next": "section0049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0049.html",
+      "words": 949,
+      "chars": 5065,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 45,
+      "prev": "section0048.html",
+      "next": "section0050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0050.html",
+      "words": 949,
+      "chars": 5064,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 46,
+      "prev": "section0049.html",
+      "next": "section0051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0051.html",
+      "words": 1080,
+      "chars": 5543,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 47,
+      "prev": "section0050.html",
+      "next": "section0052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0052.html",
+      "words": 1032,
+      "chars": 5398,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 48,
+      "prev": "section0051.html",
+      "next": "section0053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0053.html",
+      "words": 989,
+      "chars": 5160,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 49,
+      "prev": "section0052.html",
+      "next": "section0054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0054.html",
+      "words": 997,
+      "chars": 5310,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 50,
+      "prev": "section0053.html",
+      "next": "section0055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0055.html",
+      "words": 948,
+      "chars": 4938,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 51,
+      "prev": "section0054.html",
+      "next": "section0056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0056.html",
+      "words": 986,
+      "chars": 5190,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 52,
+      "prev": "section0055.html",
+      "next": "section0057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0057.html",
+      "words": 1013,
+      "chars": 5265,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 53,
+      "prev": "section0056.html",
+      "next": "section0058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0058.html",
+      "words": 1003,
+      "chars": 5325,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 54,
+      "prev": "section0057.html",
+      "next": "section0059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0059.html",
+      "words": 960,
+      "chars": 4968,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 55,
+      "prev": "section0058.html",
+      "next": "section0060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0060.html",
+      "words": 1037,
+      "chars": 5487,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 56,
+      "prev": "section0059.html",
+      "next": "section0061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0061.html",
+      "words": 923,
+      "chars": 4788,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 57,
+      "prev": "section0060.html",
+      "next": "section0062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0062.html",
+      "words": 1062,
+      "chars": 5533,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 58,
+      "prev": "section0061.html",
+      "next": "section0063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0063.html",
+      "words": 913,
+      "chars": 4843,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 59,
+      "prev": "section0062.html",
+      "next": "section0064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0064.html",
+      "words": 1020,
+      "chars": 5266,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 60,
+      "prev": "section0063.html",
+      "next": "section0065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0065.html",
+      "words": 975,
+      "chars": 5062,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 61,
+      "prev": "section0064.html",
+      "next": "section0066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0066.html",
+      "words": 969,
+      "chars": 5150,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 62,
+      "prev": "section0065.html",
+      "next": "section0067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0067.html",
+      "words": 1031,
+      "chars": 5456,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 63,
+      "prev": "section0066.html",
+      "next": "section0068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0068.html",
+      "words": 972,
+      "chars": 5078,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 64,
+      "prev": "section0067.html",
+      "next": "section0069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0069.html",
+      "words": 951,
+      "chars": 4982,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 65,
+      "prev": "section0068.html",
+      "next": "section0070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0070.html",
+      "words": 1096,
+      "chars": 5659,
+      "ideas": 161,
+      "role": "chapter",
+      "order": 66,
+      "prev": "section0069.html",
+      "next": "section0071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0071.html",
+      "words": 982,
+      "chars": 5137,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 67,
+      "prev": "section0070.html",
+      "next": "section0072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0072.html",
+      "words": 961,
+      "chars": 4969,
+      "ideas": 144,
+      "role": "chapter",
+      "order": 68,
+      "prev": "section0071.html",
+      "next": "section0073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "III. Ráj",
+          "id": "iii-ráj",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0073.html",
+      "words": 986,
+      "chars": 5177,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 69,
+      "prev": "section0072.html",
+      "next": "section0074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0074.html",
+      "words": 881,
+      "chars": 4575,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 70,
+      "prev": "section0073.html",
+      "next": "section0075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0075.html",
+      "words": 933,
+      "chars": 4925,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 71,
+      "prev": "section0074.html",
+      "next": "section0076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0076.html",
+      "words": 913,
+      "chars": 4844,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 72,
+      "prev": "section0075.html",
+      "next": "section0077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0077.html",
+      "words": 948,
+      "chars": 4955,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 73,
+      "prev": "section0076.html",
+      "next": "section0078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0078.html",
+      "words": 948,
+      "chars": 5167,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 74,
+      "prev": "section0077.html",
+      "next": "section0079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0079.html",
+      "words": 1022,
+      "chars": 5257,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 75,
+      "prev": "section0078.html",
+      "next": "section0080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0080.html",
+      "words": 943,
+      "chars": 5007,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 76,
+      "prev": "section0079.html",
+      "next": "section0081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0081.html",
+      "words": 982,
+      "chars": 5196,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 77,
+      "prev": "section0080.html",
+      "next": "section0082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0082.html",
+      "words": 888,
+      "chars": 4773,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 78,
+      "prev": "section0081.html",
+      "next": "section0083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0083.html",
+      "words": 946,
+      "chars": 5101,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 79,
+      "prev": "section0082.html",
+      "next": "section0084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0084.html",
+      "words": 946,
+      "chars": 4986,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 80,
+      "prev": "section0083.html",
+      "next": "section0085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0085.html",
+      "words": 918,
+      "chars": 4845,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 81,
+      "prev": "section0084.html",
+      "next": "section0086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0086.html",
+      "words": 966,
+      "chars": 5103,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 82,
+      "prev": "section0085.html",
+      "next": "section0087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0087.html",
+      "words": 954,
+      "chars": 5281,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 83,
+      "prev": "section0086.html",
+      "next": "section0088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0088.html",
+      "words": 936,
+      "chars": 4946,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 84,
+      "prev": "section0087.html",
+      "next": "section0089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0089.html",
+      "words": 910,
+      "chars": 4789,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 85,
+      "prev": "section0088.html",
+      "next": "section0090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0090.html",
+      "words": 967,
+      "chars": 5223,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 86,
+      "prev": "section0089.html",
+      "next": "section0091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0091.html",
+      "words": 955,
+      "chars": 5125,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 87,
+      "prev": "section0090.html",
+      "next": "section0092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0092.html",
+      "words": 951,
+      "chars": 4975,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 88,
+      "prev": "section0091.html",
+      "next": "section0093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0093.html",
+      "words": 1027,
+      "chars": 5414,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 89,
+      "prev": "section0092.html",
+      "next": "section0094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0094.html",
+      "words": 888,
+      "chars": 4740,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 90,
+      "prev": "section0093.html",
+      "next": "section0095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0095.html",
+      "words": 1020,
+      "chars": 5384,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 91,
+      "prev": "section0094.html",
+      "next": "section0096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0096.html",
+      "words": 946,
+      "chars": 4929,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 92,
+      "prev": "section0095.html",
+      "next": "section0097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0097.html",
+      "words": 938,
+      "chars": 4967,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 93,
+      "prev": "section0096.html",
+      "next": "section0098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0098.html",
+      "words": 973,
+      "chars": 5121,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 94,
+      "prev": "section0097.html",
+      "next": "section0099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0099.html",
+      "words": 927,
+      "chars": 4798,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 95,
+      "prev": "section0098.html",
+      "next": "section0100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0100.html",
+      "words": 963,
+      "chars": 5060,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 96,
+      "prev": "section0099.html",
+      "next": "section0101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0101.html",
+      "words": 980,
+      "chars": 5202,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 97,
+      "prev": "section0100.html",
+      "next": "section0102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0102.html",
+      "words": 951,
+      "chars": 4983,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 98,
+      "prev": "section0101.html",
+      "next": "section0103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0103.html",
+      "words": 997,
+      "chars": 5314,
+      "ideas": 152,
+      "role": "chapter",
+      "order": 99,
+      "prev": "section0102.html",
+      "next": "section0104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božská komedie",
+      "file": "section0104.html",
+      "words": 953,
+      "chars": 5041,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 100,
+      "prev": "section0103.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Božská komedie",
+      "file": "colophon.html",
+      "words": 196,
+      "chars": 1385,
+      "ideas": 18,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0104.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 95791,
+      "chars": 503276,
+      "ideas": 14279
+    },
+    "chapters": {
+      "words": 95590,
+      "chars": 501859,
+      "ideas": 14258
+    }
+  }
+}
