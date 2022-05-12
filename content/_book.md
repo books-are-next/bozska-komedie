@@ -12,6 +12,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
+  - promo.html
   - section0001.html
   - section0005.html
   - section0006.html
