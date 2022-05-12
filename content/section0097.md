@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ### Zpěv dvacátý šestý
