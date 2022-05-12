@@ -1081,8 +1081,7 @@
     "metadata": {
       "title": "Božská komedie",
       "identifier": "urn:uuid:fdecd2ab-e296-4784-9f05-0da03203bb94",
-      "author": "Dante Alighieri",
-      "modified": "2022-01-25T13:08:38.101Z"
+      "author": "Dante Alighieri"
     },
     "chapters": [
       {
@@ -1741,6 +1740,6 @@
       "user": "books-are-next",
       "repo": "bozska-komedie"
     },
-    "generatedAt": 1643116120026
+    "generatedAt": 1652351402429
   }
 }
