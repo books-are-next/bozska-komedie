@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý pátý
 
 To řka zveď zloděj svoje ruce obě
@@ -305,3 +307,5 @@ a to byl z tří, jenž z prvu přišli spolu,
 jejž nezastihla jeho těla ztráta;
 
 Pro druhého ty, Gaville, lkáš v bolu.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmý
 
 Osanna, sanctus Deus Sabaoth,
@@ -299,3 +301,5 @@ těl vzkříšení, když váží mysl smělá,
 jak lidské tělo v oné vzniklo době,
 
 Kdy prarodičů lidská vznikla těla.
+
+</section>

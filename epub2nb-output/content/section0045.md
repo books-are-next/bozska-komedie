@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmý
 
 Když veselý a ctný ten pozdrav sladký
@@ -275,3 +277,5 @@ dlí hrabě Vilém a k nim výše zírá,
 jimž pro Alexandrie půtku v žale
 
 Monferrat s Canavese slzy stírá.“
+
+</section>

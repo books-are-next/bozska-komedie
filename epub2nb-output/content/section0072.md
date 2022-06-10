@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # III. Ráj
 
 ### Zpěv první
@@ -289,3 +291,5 @@ prost závad kdybys dole utkvěl zpátky,
 jak na zemi lpí tichý oheň živý.“
 
 Pak obrátila k nebi zrak svůj sladký!
+
+</section>

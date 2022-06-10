@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý třetí
 
 Co svěží listí zrak můj pronikavý
@@ -269,3 +271,5 @@ jenž kráčí se mnou a jak stín se bělá,
 tím zachvěla se veškerými kruhy
 
 Říš vaše, když jej propustiti měla.“ —
+
+</section>

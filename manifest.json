@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-bozska-komedie-ee221aa",
-  "revision": "ee221aa",
+  "identifier": "alighieri-bozska-komedie-1a5725d",
+  "revision": "1a5725d",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -115,8 +115,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:12:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368367251
+    "date": "Fri Jun 10 2022 17:47:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883259640
   },
   "documents": [
     {
@@ -134,9 +134,9 @@
     {
       "title": "Božská komedie",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -2175,9 +2175,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 176,
-      "chars": 1230,
-      "ideas": 15,
+      "words": 70,
+      "chars": 598,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "section0104.html",
@@ -2195,14 +2195,14 @@
   ],
   "totals": {
     "all": {
-      "words": 95771,
-      "chars": 503121,
-      "ideas": 14276
+      "words": 95666,
+      "chars": 502489,
+      "ideas": 14269
     },
     "chapters": {
-      "words": 95590,
+      "words": 95591,
       "chars": 501859,
-      "ideas": 14258
+      "ideas": 14259
     }
   }
 }

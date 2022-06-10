@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv devátý
 
 Když sličná Clemenzo tvůj Karel vlídný
@@ -287,3 +289,5 @@ jež hřbitovem se staly, tam kde množství,
 jež Petra sledovalo, nyní dřímá,
 
 Ty zbaveny juž budou cizoložství.
+
+</section>

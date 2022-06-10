@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý
 
 Když ono, celý svět jež světlem zlatí,
@@ -299,3 +301,5 @@ co potěše mi orla řeči zněly,
 jak pohled z očí najednou vychází,
 
 Plamínku chvěním řeč svou provázeli.
+
+</section>

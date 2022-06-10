@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv druhý
 
 Vy, kteří sledujete v loďce malé
@@ -299,3 +301,5 @@ ne houštkou aneb řídkostí, jeť ona
 ten princip, jenž, vše pronikaje díla,
 
 Dle dobroty buď jas, buď temno koná.
+
+</section>

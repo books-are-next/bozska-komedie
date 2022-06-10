@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třetí
 
 Mnou vchází se do města věčné strasti,
@@ -275,3 +277,5 @@ a rudým světlem mihnul se blesk děsný,
 že ztuhlo ve mně každé smyslu hnutí;
 
 I padl jsem jak ten, jenž padá ve sny.
+
+</section>

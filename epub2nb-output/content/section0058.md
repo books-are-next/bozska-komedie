@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý
 
 Zle proti lepší vůli válčí vůle;
@@ -305,3 +307,5 @@ já váhal ptáti se pro samé spěchy
 a světlem nemoh’ být mně rozum malý.
 
 I šel jsem plachý, snivý, bez útěchy.
+
+</section>

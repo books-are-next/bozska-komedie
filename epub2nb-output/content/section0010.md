@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv šestý
 
 Když vědomí zas přišlo, jež jsem ztratil,
@@ -233,3 +235,5 @@ víc mluveno, než ret se říci zdráhá,
 až k místu, kde se cesta v propast chýlí,
 
 Zde Pluta, velkého jsme našli vraha.
+
+</section>

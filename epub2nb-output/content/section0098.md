@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý sedmý
 
 Teď Otci, Synu i Svatému Duchu
@@ -299,3 +301,5 @@ své lodě předkem a že přímým letem
 pak budou plout a pak budete zříti
 
 plod pravý na stromě, jenž planul květem.“
+
+</section>

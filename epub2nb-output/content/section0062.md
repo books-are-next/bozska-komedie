@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý čtvrtý
 
 Řeč poutí a pouť řečí přetrhána
@@ -311,3 +313,5 @@ jsou milostí, že ňadra jim netrýzní
 obžerství rozkoš, kteří spravedliví,
 
 Již tolik vždy, jak spravedlivo, žízní!“ —
+
+</section>

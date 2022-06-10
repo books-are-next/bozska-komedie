@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv čtrnáctý
 
 „Kdo jesti, jenž tam kol hory se točí,
@@ -305,3 +307,5 @@ vám, jak se točí, stále ukazuje,
 však zrak váš hledá zem a proto tepe
 
 Vás Ten, jenž liší vše a pozoruje.“ —
+
+</section>

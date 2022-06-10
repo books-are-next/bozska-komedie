@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv druhý
 
 Již hnědnul vzduch a den se k sklonu chýlil,  
@@ -179,3 +181,5 @@ ty vůdce, pane, mistře!" — Nohou ráznou
 po slovech mých on nastoupil pouť svoji,
 
 I vkročím v cestu lesnatou a sráznou.
+
+</section>

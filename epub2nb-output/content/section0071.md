@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý třetí
 
 Deus, venerunt gentes střídajíce
@@ -293,3 +295,5 @@ tak znova stvořen, jak rostliny, vezdy
 ve novém listí když jsou obnoveny.
 
 Čist, připraven se vznésti mezi hvězdy.
+
+</section>

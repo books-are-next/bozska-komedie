@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý pátý
 
 Čas nedovolil více otálení,
@@ -281,3 +283,5 @@ A myslím stálém tomto ve střídání
 tím lékem a tou péčí bez ustání
 
 Se rána poslední jim uzavírá.
+
+</section>

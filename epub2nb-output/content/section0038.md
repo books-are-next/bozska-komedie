@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý čtvrtý
 
 „Vexilla regis prodeunt inferni
@@ -281,3 +283,5 @@ až dírou kulatou, zas jako vezdy
 mi kynuly v své kráse nebes luhy.
 
 Tu vyšli jsme a zřeli jsme zas hvězdy.
+
+</section>

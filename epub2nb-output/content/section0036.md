@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý druhý
 
 Ó, bych mněl drsné a chraptivé rýmy,
@@ -281,3 +283,5 @@ když jméno zvím i jeho hřích, na zemi
 to odměnit chci tobě, v bolu žhavém
 
 Když ten, jímž mluvím, jazyk neuschne mi."
+
+</section>

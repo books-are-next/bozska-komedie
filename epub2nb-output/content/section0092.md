@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý první
 
 Na tváři paní mé zas dlely pouze
@@ -287,3 +289,5 @@ a vykřikly tak velkým, silným zvukem,
 že mizí každý světský zvuk; v tom mžiku
 
 jsem nechápal jej, přemožen jsa hlukem.
+
+</section>

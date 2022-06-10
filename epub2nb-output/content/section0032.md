@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý osmý
 
 Kdo moh' by třeba v řeči nevázané
@@ -287,3 +289,5 @@ svůj mozek oddělen od vzniku jeho,
 jenž v tomto trupu ztajen, nesu v dlani,
 
 Tak mstí se na mně, co jsem spáchal zlého." —
+
+</section>

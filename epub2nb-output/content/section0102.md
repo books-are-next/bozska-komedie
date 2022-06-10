@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý první
 
 Tak tedy v tvaru bílé, zářné růže
@@ -287,3 +289,5 @@ jak v plamen patří, ihned v tužbě vroucí
 k ní obrátil též svoje plesající,
 
 Čímž v patření mé více byly žhoucí.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv šestnáctý
 
 Tma pekel a noc světla oloupená,
@@ -293,3 +295,5 @@ a svítí tamo, k spěchu čas mám krátký,
 než Anděl přijde, jenž ty střeží kraje.“ —
 
 Mne slyšet nechtěl a se vrátil zpátky.
+
+</section>

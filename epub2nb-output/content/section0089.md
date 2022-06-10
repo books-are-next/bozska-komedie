@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmnáctý
 
 V svých vlastních slovech zakotvil se v slasti
@@ -275,3 +277,5 @@ jejž učinilo svatým tancování,
 jenž stráviti chtěl život osamělý,
 
 Že neznám Rybáře ba Pavla ani.
+
+</section>

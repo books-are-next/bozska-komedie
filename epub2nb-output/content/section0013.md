@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv devátý
 
 Co barvu bázně zřel na tváři mojí,
@@ -269,3 +271,5 @@ a hroby v menším žhnou neb větším palu."
 Pak na pravo se stočil zadumaný,
 
 Dál skrze muka šli jsme podél valů.
+
+</section>

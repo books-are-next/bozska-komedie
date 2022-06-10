@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý druhý
 
 Já viděl leckdy jezdce v útok hnáti,
@@ -305,3 +307,5 @@ k těm, kteří v smůle zalepeni byli
 a pod kůrou zpol uvaření lkali:
 
 A při té práci my je opustili.
+
+</section>

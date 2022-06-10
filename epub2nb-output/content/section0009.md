@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv pátý
 
 Z prvního kruhu pouť se v druhý sklání,
@@ -287,3 +289,5 @@ zas druhý plakal, až se žalem chvělo
 mé srdce, jak by smrti stín v ně padal:
 
 I padl jsem, jak mrtvé padá tělo.
+
+</section>

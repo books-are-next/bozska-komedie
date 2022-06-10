@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmý
 
 Pape Satan, pape Satan aleppe" —
@@ -263,3 +265,5 @@ a mezi bahnem, v kruhu louže kalné
 na ty, již bláto hltali, jsme zřeli,
 
 Až dospěli jsme k patě věže valné.
+
+</section>

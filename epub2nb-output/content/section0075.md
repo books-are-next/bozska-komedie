@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv čtvrtý
 
 Dřív svobodný by člověk hladem zpráhnul
@@ -287,3 +289,5 @@ mi jiskra lásky božským hrála jasem,
 že klesla síla má v své smutné snaze.
 
 I sklopil zrak jsem pomatený žasem.
+
+</section>

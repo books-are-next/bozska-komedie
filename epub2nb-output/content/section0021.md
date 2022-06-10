@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmnáctý
 
 Hle, šelma ostrým ohonem jak máchne,
@@ -275,3 +277,5 @@ nás složil Geryon, ten netvor divý,
 a naše osoby když složil, v dáli
 
 Spěl, jako spěje střela od tetivy.
+
+</section>

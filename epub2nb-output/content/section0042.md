@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv čtvrtý
 
 Když plesu nás neb žalu schvátí střela,
@@ -281,3 +283,5 @@ spěl ku předu řka: „S poledníkem splývá
 již slunce, na břehu se stíny hostí,
 
 Tam nohou svou noc Marokko již skrývá!“
+
+</section>

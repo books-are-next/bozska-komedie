@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # I. Peklo
 
 ### Zpěv první
@@ -277,3 +279,5 @@ ať bránu Petra uzřím, i ty, lkáním
 již hynou, které líčil jsi tak tmavě." —
 
 Tu on se napřed hnul, já kráčel za ním.
+
+</section>

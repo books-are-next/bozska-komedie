@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmnáctý
 
 Jest místo v pekle, Malebolge sluje,
@@ -275,3 +277,5 @@ když milec ptal se: Máš mne ve milosti?
 Ó nad vši míru mám tě ráda! děla.
 
 Však oči naše viděly zde dosti!"
+
+</section>

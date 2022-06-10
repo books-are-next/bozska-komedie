@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmý
 
 Dál pravím: Jakmile jsme věž tu zhledli,
@@ -209,3 +211,5 @@ Již s vrchu svahy pekla k nám se nese
 a bez průvodu kráčí s této strany
 
 Ten, jímž to město pro nás otevře se."
+
+</section>

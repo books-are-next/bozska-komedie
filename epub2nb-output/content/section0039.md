@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # II. Očistec
 
 ### Zpěv první
@@ -277,3 +279,5 @@ O dive! třtina, kterou vyvolila
 zde jeho ruka ve bahnité vodě,
 
 tam, kde ji utrh’, zas hned vyklíčila.
+
+</section>

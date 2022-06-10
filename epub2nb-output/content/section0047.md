@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv devátý
 
 Již souložnice Titona starého
@@ -293,3 +295,5 @@ já tenkrát měl, jaký nás často jíme,
 jak varhany by píseň provázely,
 
 hned slova slyšíme, hned neslyšíme.
+
+</section>

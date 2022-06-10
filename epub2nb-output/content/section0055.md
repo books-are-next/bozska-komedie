@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmnáctý
 
 Ó vzpomeň, čtenáři, zda v mlhy roji
@@ -281,3 +283,5 @@ v třech kruzích příštích nad námi se pyká,
 leč v trojí dělena jak ve pokání,
 
 To zamlčím, ať samo v zrak tvůj vniká.“ —
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý druhý
 
 V svém plesu stopen patřící kmet na se
@@ -305,3 +307,5 @@ jež můž ji dáti; proto s myslí vzňatou
 ať srdce tvé mým slovům v náruč letí.“
 
 A začal ihned modlitbu tu svatou.
+
+</section>

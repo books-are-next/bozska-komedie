@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv pátý
 
 Když lásky žárem příliš planu tobě
@@ -281,3 +283,5 @@ to svaté zjeveni v svém velkém plese,
 a celé zahalené odvětilo
 
 Tou řečí, již má příští píseň nese.
+
+</section>
