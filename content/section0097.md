@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý šestý
 
 Nad oslepnutím svým co strach jsem cítil,
@@ -287,3 +289,5 @@ jsem v žití čistém, tak i poskvrněném
 jen pouze hodin sedm mohl dleti
 
 co slunce hasne v běhu vyměřeném.
+
+</section>

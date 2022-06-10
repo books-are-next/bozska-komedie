@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý čtvrtý
 
 Ve mladistvého roku onom čase,
@@ -305,3 +307,5 @@ a potom mlhy clonu rázem strhne
 a kdo jest Bílý, jeho ráz již cítí.
 
 To řek' jsem ti, nechť v smutek tě to vrhne!"
+
+</section>

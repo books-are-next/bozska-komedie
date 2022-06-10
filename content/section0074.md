@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třetí
 
 To slunce, láskou jež mou hruď prv hřálo,
@@ -263,3 +265,5 @@ leč tato bleskla tak svých očí pláním
 v mé oči, až mne její pohled zchvátil,
 
 Že na příště jsem počkal se svým ptaním.
+
+</section>

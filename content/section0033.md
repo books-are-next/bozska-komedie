@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý devátý
 
 Ty různé rány a to množství lidu
@@ -281,3 +283,5 @@ kdys falšoval, jak bylo tenkrát v modě;
 a poznávám-li tě, vzpomeneš znovy,
 
 Jak opičíval jsem se po přírodě."
+
+</section>

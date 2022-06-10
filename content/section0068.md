@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý
 
 Jak sedmihvězdí to prvního nebe,
@@ -293,3 +295,5 @@ byť Lethe přešla se a krmě taká
 se bez pokuty okusiti měla
 
 Té lítosti, jež hořké slzy láká.“ —
+
+</section>

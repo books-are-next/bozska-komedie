@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv šestý
 
 Co Konstantin let orla, svého zvrátil,
@@ -287,3 +289,5 @@ Byť v srdce zřel mu svět, jež nevděk pálil,
 když po kuse chleb musil vyžebrati,
 
 Ač chválí jej, věř, více by jej chválil.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý první
 
 Tak žízeň vrozená mne uchvátila,
@@ -275,3 +277,5 @@ zříš takto aspoň, jíž plám v ohni vřelém,
 že nicotu tvou zapomněv i svoji
 
 Se stíny zacházím jak s pevným tělem. —“
+
+</section>

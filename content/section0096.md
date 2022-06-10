@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý pátý
 
 To stane-li se, že ty svaté sloky,
@@ -281,3 +283,5 @@ když odvrátiv se nezřím paní svojí,
 ač stála blízko mne ta vyvolená
 
 a k blaha sám já přiblížil se zdroji.
+
+</section>

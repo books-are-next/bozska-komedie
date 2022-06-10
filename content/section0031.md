@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý sedmý
 
 Již vzpřímen plamen trčel bez záchvěvu,
@@ -275,3 +277,5 @@ na nejbližší most nad skal úžlabinou
 nad propasť, v které odvet najdou záhy,
 
 Kdo svár sijíce obtíží se vinou.
+
+</section>

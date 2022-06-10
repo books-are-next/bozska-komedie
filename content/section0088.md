@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv sedmnáctý
 
 Ku Climeně jak nedočkavý přišel,
@@ -287,3 +289,5 @@ ni ukojení nedá, jenž se kryje
 a neznámý svůj kořen v taji drží.
 
 Ti chtějí důvod, který v oči bije.
+
+</section>

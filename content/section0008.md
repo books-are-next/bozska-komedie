@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv čtvrtý
 
 Sen v hlavě zdrtila mi hromu rána,
@@ -305,3 +307,5 @@ Z tichého vzduchu vůdce k cestě jiné
 do vzduchu, jenž se chví, mne jal se vésti.
 
 Tam přišel jsem, kde každé světlo zhyne.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý sedmý
 
 Jak první paprsky když slunce hází,
@@ -287,3 +289,5 @@ tvůj soud je volný, zdravý v každé době,
 ty chybíš, čin tvůj když se jeho vzdálí.
 
 Tož korunu i mitru dávám tobě!“ —
+
+</section>

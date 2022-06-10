@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý
 
 O nové muce verše musím psáti,
@@ -263,3 +265,5 @@ byl v úplňku, snad zpomínáš si, skvělý
 že prospěl v lese tobě hárající?"
 
 Tak mluvil ke mně, zatím dál jsme spěli.
+
+</section>

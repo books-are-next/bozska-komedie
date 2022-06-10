@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv devatenáctý
 
 Ó kouzelníku Šimone, ó kleté
@@ -269,3 +271,5 @@ ač tak byl příkrý kolmý svah té skály,
 že kozám byl by těžkou stezkou; spolu
 
 Nám údol jiný zjevil se pak v dáli.
+
+</section>

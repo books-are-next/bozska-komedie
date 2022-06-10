@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmý
 
 Dost dlouho za to měl svět ku své zkáze,
@@ -299,3 +301,5 @@ se mečem pásat chce dle pudu svého,
 a krále uděláte z kazatele;
 
 Čímž krok váš na scestí je bludu zlého.
+
+</section>

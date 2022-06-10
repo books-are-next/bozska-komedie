@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv desátý
 
 S tou láskou, v niž mu od věčnosti rovna
@@ -299,3 +301,5 @@ se točit; v sboru zní jich hymna smavá,
 jich hlasů sladkost sotva srdce tuší,
 
 Tam známa jest, kde radost nepřestává.
+
+</section>

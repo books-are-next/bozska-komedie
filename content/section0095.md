@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý čtvrtý
 
 O druži ku hostině vyvolená
@@ -311,3 +313,5 @@ jak umlkl jsem, tisk mne k srdci svému
 ten apoštolský plamen, který právě
 
 Jsem poslech; řeč má líbila se jemu.
+
+</section>

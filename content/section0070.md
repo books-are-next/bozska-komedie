@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý druhý
 
 Tak pevně upřené mé byly zraky,
@@ -323,3 +325,5 @@ odvázal potvoru a v honu hbitém
 ji ihned hnal pod lesa klenbu ztmělou,
 
 A před oběma stal se mi tak štítem.
+
+</section>

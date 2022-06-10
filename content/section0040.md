@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv druhý
 
 Již došlo slunce ku obzoru kraji,
@@ -269,3 +271,5 @@ zpěv opustil a běžel ku vrcholu
 jak ten, kdo neví kam jde, roztržitě.
 
 My odešli jak oni rychle spolu.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý třetí
 
 V skrytu jak milých snětí odpočívá
@@ -281,3 +283,5 @@ a pod Marií tady v blahu tráví
 jak starém tak i novém po zákoně
 
 Ten, který třímá klíče této slávy.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třináctý
 
 Teď představ si, kdo toužíš pochopiti,
@@ -287,3 +289,5 @@ když vidí krást neb na modlení dáti,
 ať nemní, že zří v soudů božích váhy,
 
 ten může padnout, a ten může vstáti.
+
+</section>

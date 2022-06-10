@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv patnáctý
 
 Ta dobrotivá vůle, v které svítí
@@ -299,3 +301,5 @@ a zbavila mne toho světa víru,
 jímž dráha mnohé duše bývá křivá.
 
 Já mučenictvím přišel k tomu míru.
+
+</section>

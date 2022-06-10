@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý třetí
 
 O Panno, matko, dcero syna svého
@@ -293,3 +295,5 @@ neb jako kolo v stejném ruchu vezdy
 mou vůli a mé chtění láska hnala,
 
 Jež u vír žene slunce a vše hvězdy.
+
+</section>

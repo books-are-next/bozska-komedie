@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý devátý
 
 Tak dlouho, co Latony děti obě,
@@ -293,3 +295,5 @@ té síly, zrcadel jež tolik sobě
 si stvořila, by byla její zvěstí,
 
 Vsak v sobě zůstává jak v první době.“
+
+</section>

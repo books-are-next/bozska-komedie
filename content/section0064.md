@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý šestý
 
 Druh za druhem když touto šli jsme strání
@@ -299,3 +301,5 @@ que us quida al som de l’ escalina,
 sovegna vos a temps de ma dolor.“
 
 By očistil se, skryl se v ohně plání.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmý
 
 Již byla chvíle, steskem domů v dáli
@@ -281,3 +283,5 @@ věř, ostřejšími hřeby v prostřed hlavy
 ti bude vbito nežli jiných slovy,
 
 Běh soudu světem když se nezastaví!“ —
+
+</section>

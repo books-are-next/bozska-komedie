@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý prvý
 
 Týž jazyk, který tak mne ranil dříve,
@@ -293,3 +295,5 @@ a s Luciferem hyne, složil nás,
 však skrčen nedlouho vstát zase pílí,
 
 Jak stěžeň na lodi se vztyčil v ráz.
+
+</section>

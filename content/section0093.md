@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý druhý
 
 Jsa děsem schvácen k svojí průvodkyni
@@ -311,3 +313,5 @@ jsem viděl s vrchy, s doly jak se točí,
 ve kruhu blíženců tak v letu dále:
 
 I obrátil jsem k sličným očím oči.
+
+</section>

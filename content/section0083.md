@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvanáctý
 
 Jak dopověděl poslední svá slova,
@@ -293,3 +295,5 @@ jsem pohnut byl Tomáše láskou vřelou,
 a moudrou řečí chválu jemu vzdáti
 
 Jsem puzen byl i s družinou svou celou.
+
+</section>

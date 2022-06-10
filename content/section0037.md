@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý třetí
 
 Zved' hříšník ústa od svých děsných hodů
@@ -317,3 +319,5 @@ zřel jednoho z vás v Kokytu, jenž hnije
 a duchem koupá se za kal svých činů.
 
 Však tělem zdánlivě dál v světě žije.
+
+</section>

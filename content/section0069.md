@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý první
 
 — „Ty, jenž dlíš tam na svaté řeky břehu,“ —
@@ -287,3 +289,5 @@ tě popsat chtěje, jak’s přede mnou byla,
 kde nepřestanou sféry v souzvuk zníti,
 
 Když’s vzduchu volně tvář svou odhalila?
+
+</section>

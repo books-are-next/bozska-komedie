@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý osmý
 
 Když o nynějším žití bídných lidí
@@ -281,3 +283,5 @@ se smrtelníku roztrhly, nech žasu,
 kdo sdělil s ním je, viděl je zde taky
 
 a jiné pravdy ještě z toho jasu.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv osmnáctý
 
 Když položil cíl svému rozhovoru,
@@ -293,3 +295,5 @@ až těkal duch můj sem tam ve bloudění,
 a s chutí víčka zavřel jsem a líný
 
 Proud myšlení mně zvolna přešel v snění.
+
+</section>

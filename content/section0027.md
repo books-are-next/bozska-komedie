@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý třetí
 
 Dál sami, bez průvodu v němém bolu
@@ -299,3 +301,5 @@ spěl trochu vzrušen hněvem v obličeji;
 ty stížené jsem nechal, s ochotností
 
 Jda milovaných nohou za šlepějí.
+
+</section>

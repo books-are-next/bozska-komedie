@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv desátý
 
 Za prahem brány, které neužívá
@@ -281,3 +283,5 @@ dle tíže břemen svých ukláněj líce,
 však nejvíc trpělivý s tváří v pláči,
 
 Se zdálo, praví: „Nemohu již více!“
+
+</section>

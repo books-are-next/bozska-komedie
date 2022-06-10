@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv desátý
 
 A úzkou stezkou spěly naše kroky
@@ -275,3 +277,5 @@ Zdi opustivše šli jsme stezkou tiše,
 jež vedla středem v údol ve hluboku,
 
 Jenž smrady svoje dýchal až k nám výše.
+
+</section>

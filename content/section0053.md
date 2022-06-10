@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv patnáctý
 
 Jak mnoho ke konci hodiny třetí
@@ -293,3 +295,5 @@ a tmavý byl jako noc, kam noha vkročí,
 a nemožno mu nikde uniknouti.
 
 Ten zakalil nám čistý vzduch i oči.
+
+</section>

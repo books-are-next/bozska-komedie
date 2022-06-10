@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý osmý
 
 Jak na vše strany zraky svoje točím,
@@ -299,3 +301,5 @@ a viděl jsem, že v tichém usmívání
 ta poslední řeč v jejich ucho zněla.
 
 Pak obrátil jsem tvář ku krásné Paní.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv třicátý
 
 Snad šest tisíc mil od nás v růžném planí
@@ -299,3 +301,5 @@ Bůh s úřadu jej svrhne v sluje děsné,
 kde Šimon se a svatokupci kají,
 
 Čímž z Alagny ten mnohem hlouběj klesne.
+
+</section>

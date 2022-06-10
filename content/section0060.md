@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Zpěv dvacátý druhý
 
 Za námi Anděl zůstal, ve průvodu
@@ -311,3 +313,5 @@ med s kobylkami stačil, jeho sláva
 tím vynikla nad ostatních všech stádem,
 
 Jak toho zvěsť Evangelium dává.“ —
+
+</section>
