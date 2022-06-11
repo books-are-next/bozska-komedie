@@ -8,7 +8,7 @@ Božská komedie
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
@@ -26,4 +26,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-ALIGHIERI, Dante. Božská komedie. \[online\]. Přel. Jaroslav Vrchlický.  Praha : Městská knihovna v Praze, 2011 \[cit. 10. 6. 2022]. Dostupné z: <next-book-url>
+ALIGHIERI, Dante. Božská komedie. \[online\]. Přel. Jaroslav Vrchlický.  Praha : Městská knihovna v Praze, 2011 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
