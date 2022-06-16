@@ -7,7 +7,9 @@
       "modified": "2022-01-25T13:04:12.337Z",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "",
@@ -1740,6 +1742,6 @@
       "user": "books-are-next",
       "repo": "bozska-komedie"
     },
-    "generatedAt": 1655271243234
+    "generatedAt": 1655364069182
   }
 }
