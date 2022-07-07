@@ -116,7 +116,7 @@ readingOrder:
   - section0102.html
   - section0103.html
   - section0104.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children: []
