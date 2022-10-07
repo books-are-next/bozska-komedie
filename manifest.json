@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-bozska-komedie-d92d719",
-  "revision": "d92d719",
+  "identifier": "alighieri-bozska-komedie-7e8c33b",
+  "revision": "7e8c33b",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -116,8 +116,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:47:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923639205
+    "date": "Fri Oct 07 2022 14:01:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151293283
   },
   "documents": [
     {
