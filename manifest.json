@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "alighieri-bozska-komedie-7e8c33b",
-  "revision": "7e8c33b",
+  "identifier": "alighieri-bozska-komedie-4eb7be2",
+  "revision": "4eb7be2",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -116,8 +116,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151293283
+    "date": "Mon Oct 10 2022 15:53:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417238331
   },
   "documents": [
     {
@@ -2177,7 +2177,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 202,
-      "chars": 1449,
+      "chars": 1452,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -2197,7 +2197,7 @@
   "totals": {
     "all": {
       "words": 95799,
-      "chars": 503346,
+      "chars": 503349,
       "ideas": 14277
     },
     "chapters": {
